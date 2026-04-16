@@ -1,0 +1,54 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Xcode generated
+Scriber.xcodeproj/
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# Claude / AI
+.claude/
+CLAUDE.md
+
+# Logs
+*.log
+/tmp/scriber.log
+
+# Audio temp files
+*.wav
+*.caf
+*.m4a
+
+# Secrets / credentials - UserDefaults plist (contains API keys at runtime)
+*.xcuserstate
+Preferences/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
