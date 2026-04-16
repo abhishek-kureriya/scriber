@@ -21,6 +21,7 @@ DerivedData/
 *.ipa
 *.dSYM.zip
 *.dSYM
+*.project.yml
 
 # Xcode generated
 Scriber.xcodeproj/
