@@ -28,7 +28,6 @@ Scriber is a native macOS menu bar app that turns your voice into polished, read
 
 | You Say | What Gets Typed (Professional) |
 |---------|-------------------------------|
-| "sick child not coming tomorrow" | My child is sick, I won't be coming in tomorrow. |
 | "meeting moved to 3 tell the team" | Hey team, just a heads up — the meeting has been moved to 3 PM. |
 | "deployed the fix looks good now" | Deployed the fix, and it's looking good now. |
 | "taking friday off kids school event" | I'll be taking Friday off for my kid's school event. |
